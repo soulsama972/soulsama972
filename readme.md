@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/soulsama972/soulsama972/main/c.png "Header")
+![Header](https://raw.githubusercontent.com/soulsama972/soulsama972/main/logo.png "Header")
 
 ## 👋 Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name is Michael Baliliti and I'm a Software Developer. 
