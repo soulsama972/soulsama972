@@ -23,6 +23,10 @@ I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in
 
 ## 🌟 GitHub Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Self-Play-Pong-Model-Machine-Learning-Genetic-Algorithm&theme=algolia)](https://github.com/soulsama972/Self-Play-Pong-Model-Machine-Learning-Genetic-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Assembler&theme=algolia)](https://github.com/soulsama972/Assembler)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=OpenGL-Wrapper-WIP&theme=algolia)](https://github.com/soulsama972/OpenGL-Wrapper-WIP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=showCase&theme=algolia)](https://github.com/soulsama972/ShowCase)
 
 
 
