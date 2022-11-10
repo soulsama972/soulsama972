@@ -24,13 +24,10 @@ I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in
 ## 🌟 GitHub Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Self-Play-Pong-Model-Machine-Learning-Genetic-Algorithm&theme=algolia)](https://github.com/soulsama972/Self-Play-Pong-Model-Machine-Learning-Genetic-Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Assembler&theme=algolia)](https://github.com/soulsama972/Assembler)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=OpenGL-Wrapper-WIP&theme=algolia)](https://github.com/soulsama972/OpenGL-Wrapper-WIP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=2D-Graphic-Wrapper-Using-DirectX11&theme=algolia)](https://github.com/soulsama972/2D-Graphic-Wrapper-Using-DirectX11)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=showCase&theme=algolia)](https://github.com/soulsama972/ShowCase)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=machine_learning_dog_vs_cat_model&theme=algolia)](https://github.com/soulsama972/machine_learning_dog_vs_cat_model)
-
-
 
 ## 😄 Social Media
 You can find me on [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/michael-baliliti-918972168/)
