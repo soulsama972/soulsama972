@@ -28,6 +28,8 @@ I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=2D-Graphic-Wrapper-Using-DirectX11&theme=algolia)](https://github.com/soulsama972/2D-Graphic-Wrapper-Using-DirectX11)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=showCase&theme=algolia)](https://github.com/soulsama972/ShowCase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=machine_learning_dog_vs_cat_model&theme=algolia)](https://github.com/soulsama972/machine_learning_dog_vs_cat_model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Share_Screen&theme=algolia)](https://github.com/soulsama972/Share_screen)
+
 
 ## 😄 Social Media
 You can find me on [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/michael-baliliti-918972168/)
