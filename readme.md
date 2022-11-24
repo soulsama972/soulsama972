@@ -8,14 +8,11 @@ I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&color=0e0080&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-informational?logo=intellijidea&color=0e0080&logoColor=white" alt="IntelliJ_IDEA logo" title="IntelliJ_IDEA" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/Visual_Studio-informational?logo=visualstudio&color=0e0080&logoColor=white" alt="Visual_Studio logo" title="Visual_Studio" height="25">&nbsp;</img>
-<img src="https://img.shields.io/badge/PyCharm-informational?logo=pycharm&color=0e0080&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/Python-informational?logo=python&color=0e0080&logoColor=white" alt="Python logo" title="Python" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/C-informational?logo=c&color=0e0080&logoColor=white" alt="C" title="C" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/C++-informational?logo=cplusplus&color=0e0080&logoColor=white" alt="C++" title="C++" height="25">&nbsp;</img>
-<img src="https://img.shields.io/badge/Java-informational?logo=java&color=0e0080&logoColor=white" alt="Java" title="Java" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/React-informational?logo=react&color=0e0080&logoColor=white" alt="React" title="React" height="25">&nbsp;</img>
 <img src="https://img.shields.io/badge/VMware-informational?logo=vmware&color=0e0080&logoColor=white" alt="VMware" title="VMware" height="25">&nbsp;</img>
-<img src="https://img.shields.io/badge/Jira-informational?logo=jira&color=0e0080&logoColor=white" alt="Jira" title="Jira" height="25">&nbsp;</img>
 
 ## 📈 GitHub Stats
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulsama972&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/soulsama972/github-readme-stats)
