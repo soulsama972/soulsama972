@@ -29,6 +29,7 @@ I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=showCase&theme=algolia)](https://github.com/soulsama972/ShowCase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=machine_learning_dog_vs_cat_model&theme=algolia)](https://github.com/soulsama972/machine_learning_dog_vs_cat_model)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Share_Screen&theme=algolia)](https://github.com/soulsama972/Share_screen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soulsama972&repo=Communication-with-LCD-from-Scratch&theme=algolia)](https://github.com/soulsama972/Communication-with-LCD-from-Scratch)
 
 
 ## 😄 Social Media
